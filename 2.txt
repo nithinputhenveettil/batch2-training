@@ -2,4 +2,7 @@ Hello from 2.txt
 second line
 third line
 
+
 hotfix commit
+final issue52 change
+
